@@ -3,5 +3,4 @@ target
 *.iml
 **/*.iml
 **/.env
-lab4/
 mlops_practice/
